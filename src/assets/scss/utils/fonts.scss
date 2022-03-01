@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: 'Merriweather';
+    src: local('Merriweather'), local('Merriweather'),
+      url('../fonts/Merriweather-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Merriweather-Bold';
+    src: local('Merriweather-Bold'), local('Merriweather-Bold'),
+      url('../fonts/Merriweather-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+  }
